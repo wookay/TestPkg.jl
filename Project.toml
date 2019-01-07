@@ -1,6 +1,6 @@
 authors = ["WooKyoung Noh <wookay.noh@gmail.com>"]
 name = "TestPkg"
 uuid = "60c07c90-125c-11e9-02cf-a133b4670a10"
-version = "0"
+version = "0.1.0"
 
 [deps]
